@@ -1,2 +1,2 @@
 ## Local manifests
-#### Havoc Lilac
+#### Unified for Havoc and PE (ten) Lilac

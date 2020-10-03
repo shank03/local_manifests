@@ -11,5 +11,9 @@
     <!-- Pinned blobs for lilac -->
     <project name="shank03/android_vendor_sony_lilac" path="vendor/sony/lilac" remote="git" revision="ten" />
 
-    <project name="shank03/vendor_google-customization" path="vendor/google-customization" remote="git" revision="ten" />
+    <!-- Uncomment below for Havoc -->
+    <!--<project name="shank03/vendor_google-customization" path="vendor/google-customization" remote="git" revision="ten" />-->
+
+    <!-- Uncomment below for PE -->
+    <!--<project path="packages/apps/PixelLiveWallpaper" name="packages_apps_PixelLiveWallpaper" remote="pixel-gitlab" clone-depth="1" />-->
 </manifest>
